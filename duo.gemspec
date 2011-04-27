@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.authors = ['Brandon Dimcheff']
   s.email = 'bdimchef-git@wieldim.com'
   s.homepage = 'http://github.com/bdimcheff/duo'
-  s.summary = %Q{TODO: one-line summary of your gem}
-  s.description = %Q{TODO: detailed description of your gem}
+  s.summary = %Q{Duo Security 2-factor authentication in Ruby}
+  s.description = %Q{Check out http://duosecurity.com for more info}
   s.extra_rdoc_files = [
     'LICENSE',
     'README.rdoc',
