@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.name = 'duo'
   s.version = Duo::VERSION
   s.platform = Gem::Platform::RUBY
-  s.date = '2011-04-26'
+  s.date = "2011-04-26"
   s.authors = ['Brandon Dimcheff']
   s.email = 'bdimchef-git@wieldim.com'
   s.homepage = 'http://github.com/bdimcheff/duo'
