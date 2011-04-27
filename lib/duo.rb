@@ -1,0 +1,3 @@
+module Duo
+  # Your code goes here...
+end
